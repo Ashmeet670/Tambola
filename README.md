@@ -2,7 +2,7 @@
 
 This is the popular tambola game made in python
 
-#Commad Information
+## Commad Information
 
 -1 would give you a random number, which basically means that it would give you the number that is being called
 ![Screenshot 2022-06-20 at 12 47 58 PM](https://user-images.githubusercontent.com/73339721/174546200-ec64f1c7-a852-4a1a-a8bb-6d19523b7155.png)
